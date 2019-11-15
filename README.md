@@ -6,3 +6,8 @@ The UI Manager is a stack-based UI controller class. It is designed to make push
 ## More information
 
 For the full README [check it out over here in the UIManager directory](Assets/UIManager/README.md)
+
+## Contribute
+If you wish to contribute to this project feel free to open up a pull request and I will review it for inclusion.
+
+Same goes for bug fixes, if you find any, feel free to open up an Issue here on the GitHub repo or fix it yourself and create a pull request so we may all benefit.
